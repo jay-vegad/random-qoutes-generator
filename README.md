@@ -1,5 +1,6 @@
 # Random Quote Generator (Challange - 1)
 
+Live link:- http://random-qoute-challange-3.netlify.app/
 
 A beautiful, responsive web application that displays random inspirational quotes on dynamic backgrounds. Users can generate new quotes, copy them to clipboard, or share them on Twitter.
 
